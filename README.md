@@ -48,8 +48,8 @@ Fetches Google Pagespeed results in under 2 minutes with retry logic.
 
 ## ✍️ Blog Posts  
 
-- [From Manual to AI-Enhanced: A Practical Guide for QAs at Startups]([https://medium.com/@yourid/start-small-agentic-qa](https://medium.com/@nirmal_47890/from-manual-to-ai-enhanced-a-practical-guide-for-qas-at-startups-82c59c42d461)  
-- [Inside the Engine: How Selenium, Playwright, and Cypress Really Talk to Your Browser]([https://medium.com/@yourid/ci-cd-for-qa-automation](https://medium.com/@nirmal_47890/inside-the-engine-how-selenium-playwright-and-cypress-really-talk-to-your-browser-29ecc494ba26)  
+- [From Manual to AI-Enhanced: A Practical Guide for QAs at Startups](https://medium.com/@nirmal_47890/from-manual-to-ai-enhanced-a-practical-guide-for-qas-at-startups-82c59c42d461)  
+- [Inside the Engine: How Selenium, Playwright, and Cypress Really Talk to Your Browser](https://medium.com/@nirmal_47890/inside-the-engine-how-selenium-playwright-and-cypress-really-talk-to-your-browser-29ecc494ba26)  
 
 ---
 
