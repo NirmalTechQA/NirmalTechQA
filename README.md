@@ -7,7 +7,7 @@ Helping teams build scalable, stable, and efficient QA automation solutions.
 
 ## 🔥 About Me  
 - 💻 14+ years of experience in **Software Testing & Automation**  
-- 🛠️ Strong expertise in **Web, Mobile, and API Automation**  
+- 🛠️ Strong expertise in **Web, Mobile, API Automation and Performance Testing**  
 - ⚡ Specialized in designing **scalable automation frameworks** and setting up **CI/CD pipelines**  
 - 🌍 Open to **remote work & freelance opportunities** worldwide  
 - 🎯 Passionate about mentoring, problem-solving, and accelerating release cycles with automation  
@@ -15,11 +15,11 @@ Helping teams build scalable, stable, and efficient QA automation solutions.
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Java, Python, JavaScript, TypeScript  
-- **Automation Tools**: Selenium, Playwright, Appium, Cypress, Rest Assured  
+- **Languages**: Java, JavaScript, TypeScript , Python
+- **Automation Tools**: Selenium, Playwright, Appium, Cypress, Rest Assured , Karate 
 - **Performance Testing**: JMeter, k6  
-- **CI/CD & DevOps**: GitHub Actions, Jenkins, Docker, LambdaTest  
-- **Databases**: MySQL, MongoDB  
+- **CI/CD & DevOps**: GitHub Actions, Jenkins, Docker, Kubernetes, LambdaTest  , BrowserStack
+- **Databases**: MySQL  
 
 ---
 
@@ -48,15 +48,14 @@ Fetches Google Pagespeed results in under 2 minutes with retry logic.
 
 ## ✍️ Blog Posts  
 
-- [Start Small: How to Introduce Agentic QA Agents in Selenium](https://medium.com/@yourid/start-small-agentic-qa)  
-- [CI/CD for QA Automation in Startups](https://medium.com/@yourid/ci-cd-for-qa-automation)  
-- [Self-Healing Test Automation with Healenium](https://medium.com/@yourid/self-healing-test-automation)  
+- [From Manual to AI-Enhanced: A Practical Guide for QAs at Startups]([https://medium.com/@yourid/start-small-agentic-qa](https://medium.com/@nirmal_47890/from-manual-to-ai-enhanced-a-practical-guide-for-qas-at-startups-82c59c42d461)  
+- [Inside the Engine: How Selenium, Playwright, and Cypress Really Talk to Your Browser]([https://medium.com/@yourid/ci-cd-for-qa-automation](https://medium.com/@nirmal_47890/inside-the-engine-how-selenium-playwright-and-cypress-really-talk-to-your-browser-29ecc494ba26)  
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/YOURPROFILE)  
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@yourid)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/nirmal-kumar-bv-18bba573/)  
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@nirmal_47890)  
 
 ---
