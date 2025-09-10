@@ -28,14 +28,6 @@ Helping teams build scalable, stable, and efficient QA automation solutions.
 🔹 [Unified Framework for Web and Mobile](https://github.com/NirmalTechQA/web-mobile-unified-test-automation-framework)
 A unified Web & Mobile Test Automation Framework built with Selenium and Appium. Supports cross-platform testing, reusable page objects, CI/CD integration, and detailed reporting. Designed for scalability, stability, and faster QA execution across browsers and mobile devices.
 
-
----
-
-## 📊 GitHub Stats  
-
-![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalkumarbv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkumarbv&layout=compact&theme=radical)  
-
 ---
 
 ## ✍️ Blog Posts  
