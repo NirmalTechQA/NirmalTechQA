@@ -25,17 +25,9 @@ Helping teams build scalable, stable, and efficient QA automation solutions.
 
 ## 🚀 Featured Projects  
 
-🔹 [Selenium Hybrid Framework](https://github.com/yourrepo)  
-A robust framework with Page Object Model, TestNG, retry logic, and detailed reporting.  
+🔹 [Unified Framework for Web and Mobile](https://github.com/NirmalTechQA/web-mobile-unified-test-automation-framework)
+A unified Web & Mobile Test Automation Framework built with Selenium and Appium. Supports cross-platform testing, reusable page objects, CI/CD integration, and detailed reporting. Designed for scalability, stability, and faster QA execution across browsers and mobile devices.
 
-🔹 [Appium Mobile Automation](https://github.com/yourrepo)  
-End-to-end automation for Android apps with CI/CD pipeline integration.  
-
-🔹 [API Test Suite – Rest Assured](https://github.com/yourrepo)  
-Reusable framework for scalable API testing with detailed reports.  
-
-🔹 [Pagespeed Automation](https://github.com/yourrepo)  
-Fetches Google Pagespeed results in under 2 minutes with retry logic.  
 
 ---
 
